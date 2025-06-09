@@ -138,7 +138,7 @@
 <body>
 
   <div class="sidebar">
-    <img src="c:\Users\HP\Downloads\WhatsApp Image 2025-06-04 at 11.28.30_8a7ffed4.jpg" alt="Foto Profil">
+    <img src="WhatsApp Image 2025-06-04 at 11.28.30_8a7ffed4.jpg" alt="Foto Profil">
     <h1>Rabiatul Samaiya</h1>
     <a onclick="showSection('home')">Home</a>
     <a onclick="showSection('about')">About Me</a>
